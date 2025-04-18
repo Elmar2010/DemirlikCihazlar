@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Demirlik Cihazlar</string>
+    <string name="default_web_client_id">AIzaSyCfDkGy4KVrVG2SmxKuOcGaPV4gDJKQQh4</string>
+    <string-array name="device_types">
+        <item>Mobil Telefon</item>
+        <item>Planşet</item>
+        <item>Kompüter</item>
+        <item>Ağıllı Saat</item>
+        <item>Televizor</item>
+    </string-array>
+
+    <string-array name="os_types">
+        <item>Windows</item>
+        <item>macOS</item>
+        <item>Linux</item>
+        <item>Android</item>
+        <item>iOS</item>
+        <item>Digər</item>
+    </string-array>
+
+</resources>
